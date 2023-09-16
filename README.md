@@ -12,3 +12,12 @@ My dashboard focuses on key metrics that impact Gen-Z when choosing a career pat
 - Created analysis reports and found insights to bring business impact using Excel, PowerBI and SQL.
 - Designed and published dashboards for presenting the insights (Excel & PowerBI).
 - Presented the findings and recommendations to the business stakeholders.
+
+Insights Generated :
+* By looking at the most influential factor, we can determine that their parents are the most influential factor among Generation Z.
+* Design and Creative are exceptionally famous among the GenZ people, whereas very few of them are preferring to work for BPOs.
+* Generation Z prefer a Fully Remote work environment rather than a Hybrid work environment. However, approximately 21% of them still prefer to work from the office.
+* We are able to pinpoint areas in which employees and managers collaborate to achieve a goal. This information could be used to create management training programs and enhance company-wide communication.
+* GenZ folks majorly prefer to work in small-sized teams of 5-6 members.
+* GenZ don’t prefer to work for misleading companies.
+
