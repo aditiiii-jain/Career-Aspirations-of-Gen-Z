@@ -1,4 +1,5 @@
 # Career-Aspirations-of-Gen-Z
+Gen Z, the generation born from the mid-1990s to the early 2010s, has unique career goals. They want jobs that have meaning and match their values. Work-life balance is important to them, and they like jobs that are secure. Many of them are interested in careers related to technology. Some want to start their own businesses and make a positive impact in the world. They care about having diverse and socially responsible workplaces. Gen Z is known for being adaptable, tech-savvy, and wanting to make a difference. To connect with them, organizations and educators need to understand and support these career goals.
 
 - Understood the nature and the scope of the analysis from the project owner.
 - Performed market research through personal interviewing, articles or white papers.
